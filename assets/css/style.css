@@ -1,0 +1,171 @@
+
+header{
+    height: 50px;
+    width: 960px;
+    background-color:white;
+    color:#4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding-top:0;
+    
+}
+.content{
+    height: 590px;
+    width: 960px;
+    background-color:#ffffff;
+    text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.shital{
+    color:#4aaaa5;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+
+}
+
+.myname{
+    height: 75px;
+    width: 300px;
+    color: white;
+    background-color: #4aaaa5;
+    padding-bottom: 20px;
+    float: left;
+    display: inline;
+    text-align: center;
+    margin-top: -44px;
+    
+}
+footer{
+    background-color: #666666;
+    height: 30px;
+    text-align: center;
+    color:white;
+}
+.border{
+    height: 5px;
+    background-color: #4aaaa5;
+}   
+    
+
+#ul_list li{
+    display: inline;
+    padding: 10px;
+    color: blue;
+    font-size: 15px;
+    /* text-align: right; */
+    margin-left: 5%;
+    /* position: absolute; */
+}
+
+
+p{
+    font-size: 15px;
+    font-family: cursive;
+    line-height: 28px;
+}
+#me{
+    float: left;
+    margin-left: 2%;
+    margin-right: 3%;
+}
+.container{
+    background-image: url("floor-tile.png");
+}
+.personal{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 5%;
+    color: #4aaaa5;
+    font-size: 25px;
+}
+.done{
+    color: white;
+    background-color: #4aaaa5;
+}
+.box-1{
+    position: relative;
+    height: 560px;
+    width: 960px;
+}
+.pic1{
+    top:0;
+    left:45%;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margin: 0;
+}
+.pic2{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    bottom: 6%;
+    left:45%;
+}
+.pic3{
+    position: absolute;
+    top:0px;
+    left:30%
+     
+    
+}
+.pic4{
+    position: absolute;
+    bottom: 39%;
+    left:30%;
+}
+.pic5{
+    position: absolute;
+    bottom: 10%;
+    left:30%;
+
+}
+.pic11{
+    width:148px;
+    padding: 1px;
+    background-color: #4aaaa5;
+    color:white;
+    position: relative;
+    left:25px;
+    bottom:32px;
+}
+.pic21{
+    width: 148px;
+    padding: 1px;
+    background-color: #4aaaa5;
+    color: white;
+    position: relative;
+    left: 25px;
+    bottom:31px;
+
+}
+.pic31{
+    width: 148px;
+    padding: 1px;
+    background-color: #4aaaa5;
+    color: white;
+    position:relative;
+    left:0;
+    bottom:32px;
+}
+.pic41{
+    width: 148px;
+    padding: 1px;
+    background-color: #4aaaa5;
+    color: white;
+    position: relative;
+    bottom:30px;
+    left:0px;
+}
+.pic51{
+    width: 147px;
+    padding: 1px;
+    background-color: #4aaaa5;
+    color: white;
+    position: relative;
+    bottom: 31px;
+}
+
