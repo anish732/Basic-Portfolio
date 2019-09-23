@@ -4,7 +4,7 @@
     margin: 0;
 }
 header{
-    height: 50px;
+    height: 70px;
     width: 960px;
     background-color:white;
     color:#4aaaa5;
@@ -33,13 +33,16 @@ header{
 .myname{
     height: 75px;
     width: 300px;
+    padding-top: 10px;
     color: white;
     background-color: #4aaaa5;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     float: left;
     display: inline;
     text-align: center;
-    margin-top: -44px;
+    margin-top: -1px;
+    margin-bottom: 20px;
+    
     
 }
 footer{
