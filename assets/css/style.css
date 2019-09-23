@@ -168,4 +168,46 @@ p{
     position: relative;
     bottom: 31px;
 }
+@media screen and (max-width: 980px){
+    body{
+        width: 100%;
+    }
+    .content{
+        width: 100%;
+    }
+    .container{
+        width: 100%;
+    }
+    .myname{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 768px){
+    body{
+        width:100%;
+    }
+    .content{
+        width: 100%;
+    }
+    .container{
+        width: 100%;
+    }
+    .myname{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 640px){
+    body{
+        width:100%
+    }
+    .content{
+        width: 100%;
+    }
+    .container{
+        width: 100%;
+    }
+    .myname{
+        width: 100%;
+    }
+}
 
