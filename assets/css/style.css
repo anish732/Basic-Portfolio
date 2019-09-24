@@ -1,8 +1,4 @@
 
-* {
-    box-sizing: border-box;
-    margin: 0;
-}
 header{
     height: 70px;
     width: 960px;
@@ -40,7 +36,7 @@ header{
     float: left;
     display: inline;
     text-align: center;
-    margin-top: -1px;
+    margin-top: -44px;
     margin-bottom: 20px;
     
     
@@ -175,46 +171,5 @@ p{
     position: relative;
     bottom: 31px;
 }
-@media screen and (max-width: 980px){
-    body{
-        width: 100%;
-    }
-    .content{
-        width: 100%;
-    }
-    .container{
-        width: 100%;
-    }
-    .myname{
-        width: 100%;
-    }
-}
-@media screen and (max-width: 768px){
-    body{
-        width:100%;
-    }
-    .content{
-        width: 100%;
-    }
-    .container{
-        width: 100%;
-    }
-    .myname{
-        width: 100%;
-    }
-}
-@media screen and (max-width: 640px){
-    body{
-        width:100%
-    }
-    .content{
-        width: 100%;
-    }
-    .container{
-        width: 100%;
-    }
-    .myname{
-        width: 100%;
-    }
-}
+
 
